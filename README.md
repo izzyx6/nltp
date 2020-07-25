@@ -1,4 +1,4 @@
-﻿# #Natural Language Text Preprocessor (nltp)
+﻿# Natural Language Text Preprocessor (nltp)
 
 A simplified package for automating text preprocessing activities such as lemmatization, tokenization, removal of stop words, removal of certain pattern from text using regular expression. Working under the hood, this package makes use of the NLTK library for its text cleaning activities. 
 
